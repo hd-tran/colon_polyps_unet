@@ -6,3 +6,6 @@ Public Dataset taken from:
 
 * Training Data uses [CVC-ClinicDB](https://polyp.grand-challenge.org/CVCClinicDB/)
 * Test Data uses [ETIS-Larib](https://polyp.grand-challenge.org/EtisLarib/)
+
+
+\* a private data set was also used for training provided by a UCI professor and graduate student to help with training
